@@ -40,7 +40,7 @@ Supported scales:
 
 ---
 
-## 🏋️‍♀️ 2. Training Procedure
+## 🏋️‍♀️ 3. Training Procedure
 
 ### 🔁 Train the Model
 
@@ -53,7 +53,7 @@ python train.py
 
 ---
 
-## 🧪 3. Testing & Inference
+## 🧪 4. Testing & Inference
 
 ### 🔍 Run Testing
 
